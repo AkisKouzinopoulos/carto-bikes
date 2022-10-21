@@ -213,6 +213,13 @@ function NavigationMenu({ column: vertical }) {
           to={ROUTE_PATHS.STORES}
           className={classes.navLink}
         />
+        <Tab
+          label='Bikes'
+          value='bikes'
+          component={NavLink}
+          to={ROUTE_PATHS.BIKES}
+          className={classes.navLink}
+        />
       </Tabs>
     </Grid>
   );

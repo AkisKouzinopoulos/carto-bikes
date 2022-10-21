@@ -6,6 +6,7 @@ const Main = lazy(() => import(/* webpackPrefetch: true */ 'components/views/mai
 const NotFound = lazy(() => import('components/views/NotFound'));
 const Login = lazy(() => import('components/views/Login'));
 const Stores = lazy(() => import('components/views/Stores.js'));
+const Bikes = lazy(() => import('components/views/Bikes.js'));
 // [hygen] Import views
 
 export const ROUTE_PATHS = {
@@ -13,6 +14,7 @@ export const ROUTE_PATHS = {
   DEFAULT: '/',
   NOT_FOUND: '/404',
   STORES: '/stores',
+  BIKES: '/bikes',
   // [hygen] Add path routes
 };
 
@@ -29,6 +31,7 @@ const routes = [
     children: [
       // { path: '/', element: <Navigate to='/<your default view>' /> },
       { path: ROUTE_PATHS.STORES, element: <Stores /> },
+      { path: ROUTE_PATHS.BIKES, element: <Bikes /> },
       // [hygen] Add routes
     ],
   },
