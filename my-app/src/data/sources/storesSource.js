@@ -7,6 +7,7 @@ const source = {
   type: MAP_TYPES.TABLE,
   connection: 'carto_dw',
   data: `cartobq.public_account.retail_stores`,
+  
 };
 
 export default source;
