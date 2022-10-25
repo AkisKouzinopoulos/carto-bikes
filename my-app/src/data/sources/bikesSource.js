@@ -7,6 +7,7 @@ const source = {
   type: MAP_TYPES.TABLE,
   connection: 'carto_dw',
   data: `carto-dw-ac-5rs0powf.shared.dublinBikes`,
+  // data: `carto-dw-ac-5rs0powf.shared.dublinBikes-lat-long`,
 };
 
 export default source;

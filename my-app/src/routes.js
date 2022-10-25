@@ -7,6 +7,7 @@ const NotFound = lazy(() => import('components/views/NotFound'));
 const Login = lazy(() => import('components/views/Login'));
 const Stores = lazy(() => import('components/views/Stores.js'));
 const Bikes = lazy(() => import('components/views/Bikes.js'));
+const Locked = lazy(() => import('components/views/Locked.js'));
 // [hygen] Import views
 
 export const ROUTE_PATHS = {
@@ -15,6 +16,7 @@ export const ROUTE_PATHS = {
   NOT_FOUND: '/404',
   STORES: '/stores',
   BIKES: '/bikes',
+  LOCKED: '/locked',
   // [hygen] Add path routes
 };
 
@@ -32,6 +34,7 @@ const routes = [
       // { path: '/', element: <Navigate to='/<your default view>' /> },
       { path: ROUTE_PATHS.STORES, element: <Stores /> },
       { path: ROUTE_PATHS.BIKES, element: <Bikes /> },
+      { path: ROUTE_PATHS.LOCKED, element: <Locked /> },
       // [hygen] Add routes
     ],
   },

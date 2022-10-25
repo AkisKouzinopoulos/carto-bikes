@@ -220,6 +220,13 @@ function NavigationMenu({ column: vertical }) {
           to={ROUTE_PATHS.BIKES}
           className={classes.navLink}
         />
+        <Tab
+          label='Locked'
+          value='locked'
+          component={NavLink}
+          to={ROUTE_PATHS.LOCKED}
+          className={classes.navLink}
+        />
       </Tabs>
     </Grid>
   );
