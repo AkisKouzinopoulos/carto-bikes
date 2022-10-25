@@ -3,12 +3,12 @@ import { API_VERSIONS } from '@deck.gl/carto';
 
 export const initialState = {
   viewState: {
-    latitude: 31.802892,
-    longitude: -103.007813,
-    zoom: 2,
-    pitch: 0,
+    latitude: 53.28326,
+    longitude: -6.2183847,
+    zoom: 10,
+    pitch: 40,
     bearing: 0,
-    dragRotate: false,
+    dragRotate: true,
   },
   basemap: VOYAGER,
   credentials: {

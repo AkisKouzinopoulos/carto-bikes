@@ -21,19 +21,14 @@ const Bikes = () => {
   const dispatch = useDispatch();
   const classes = useStyles();
 
-  const [bikesData, setBikesData] = useState([]);
-
-  // Viewport settings
-  const INITIAL_VIEW_STATE = {
-    longitude: -6.1945907,
-    latitude: 53.261606,
-    zoom: 9,
-    pitch: 1,
-    bearing: 1,
-  };
-  const layers = [
-    new LineLayer({ id: 'line-layer', bikesData })
-  ];
+  // // Viewport settings
+  // const INITIAL_VIEW_STATE = {
+  //   longitude: -6.2183847,
+  //   latitude: 53.28326,
+  //   zoom: 9,
+  //   pitch: 1,
+  //   bearing: 1,
+  // };
 
   useEffect(() => {
     dispatch(addSource(bikesSource));

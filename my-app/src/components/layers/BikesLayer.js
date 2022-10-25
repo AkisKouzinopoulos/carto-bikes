@@ -33,14 +33,24 @@ export default function BikesLayer() {
     return new HexagonLayer({
       id: 'hex',
       data: bikesData,
-      getPosition: (d) => [+d.longitude, +d.latitude],
+      getPosition: (bikeStation) => [+bikeStation.longitude, +bikeStation.latitude],
       getElevationWeight: (d) => d.available_bike_stands + d.available_bikes,
-      elevationScale: 100,
+      elevationScale: 10,
       extruded: true,
       radius: 109,
       opacity: 0.6,
       coverage: 0.88,
       lowerPercentile: 50,
+      wireframe: true,
+      pickable: true,
+      onHover: (info) => {
+        if (info?.object) {
+          info.object = {
+            html: `<div>lat: ${info.coordinate[0]}</div>`,
+            style: {},
+          };
+        }
+      },
     });
   }
 }

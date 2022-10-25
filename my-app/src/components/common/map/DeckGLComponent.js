@@ -15,6 +15,9 @@ export default function DeckGLComponent({ layers }) {
   const basemap = useSelector((state) => BASEMAPS[state.carto.basemap]);
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('xs'));
+
+  const mapStyle = 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json'
+
   const {
     handleCursor,
     handleHover,
@@ -38,7 +41,8 @@ export default function DeckGLComponent({ layers }) {
       <Map
         mapLib={maplibregl}
         reuseMaps
-        mapStyle={basemap.options.mapStyle}
+        // mapStyle={basemap.options.mapStyle}
+        mapStyle={mapStyle}
         styleDiffing={false}
       />
     </DeckGL>
