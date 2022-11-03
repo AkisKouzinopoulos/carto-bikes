@@ -1,5 +1,6 @@
 import axios from 'axios';
 import bikes from 'clients/dublin-bikes.json';
+import attractions from 'clients/attractions-ireland.json';
 
 const HEADERS = {
   'Content-Type': 'application/json',
@@ -14,6 +15,13 @@ const BikesApiClient = {
     const data = bikes;
 
     return data;
+  },
+  getAttractionsData: async () => {
+    // const { data } = await axios.get('', {
+    //   headers: HEADERS,
+    // });
+    const { results } = attractions;
+    return results;
   },
 };
 

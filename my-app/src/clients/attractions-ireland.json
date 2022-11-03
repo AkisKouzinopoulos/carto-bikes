@@ -1,0 +1,1866 @@
+{
+  "count": "221",
+  "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/attractions?subscription-key=&search=*&$skip=50",
+  "results": [
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St Mary's Church",
+      "url": "https://heritageireland.ie/visit/places-to-visit/st-marys-church-gowran/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.0647193,
+        "latitude": 52.628901
+      },
+      "telephone": "+353567767726",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gowran",
+        "addressRegion": "Kilkenny",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Trinitarian Monastery",
+      "url": "https://www.adareparish.ie/our-parish/virtual-tour-2/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.7890832,
+        "latitude": 52.564815
+      },
+      "telephone": "+35361396172",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Adare",
+        "addressRegion": "Limerick",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St. Mullins Ecclesiastical Village",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.92901593581485,
+        "latitude": 52.4912996422915
+      },
+      "telephone": "+353879103672",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint Mullins",
+        "addressRegion": "Carlow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Killoughternane",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.82471115309872,
+        "latitude": 52.6628559636995
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bagenalstown",
+        "addressRegion": "Carlow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Ruins",
+        "Historic Houses and Castle"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St. Patrick's Well Cross",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.39327656445312,
+        "latitude": 52.4160710356843
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ahenny",
+        "addressRegion": "Tipperary",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Lemanaghan Monastic Site",
+      "url": "http://www.megalithicireland.com/Lemanaghan%20Church.html",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.7442783,
+        "latitude": 53.2933767
+      },
+      "telephone": "+353579346839",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ballycumber",
+        "addressRegion": "Offaly",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Ruins",
+        "Historic Houses and Castle"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Skryne Church",
+      "url": "https://www.skryneandrathfeighparish.ie/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.5631088,
+        "latitude": 53.5859852
+      },
+      "telephone": "+3530469025152",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kells -Kerry",
+        "addressRegion": "Meath",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "Museum",
+        "CafeOrCoffeeShop"
+      ],
+      "name": "Fenagh Visitor Centre",
+      "url": "http://www.facebook.com/FenaghVisitorCentre",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.839209,
+        "latitude": 54.020755
+      },
+      "telephone": "+353719645590",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fenagh",
+        "addressRegion": "Leitrim",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Activity Operator",
+        "Tracing Your Ancestors",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Museums and Attraction",
+        "Cafe",
+        "Food and Drink",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Lough Derg Place of Pilgrimage",
+      "url": "https://www.loughderg.org/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.87127813389588,
+        "latitude": 54.6089850115486
+      },
+      "telephone": "+353719861518",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pettigo",
+        "addressRegion": "Donegal",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Transport",
+        "Walking",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Island",
+        "Offshore Island",
+        "Coach",
+        "Road"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Kells Historic Trail",
+      "url": "https://www.discoverboynevalley.ie/plan-your-visit/things-to-do/kells-historic-trail",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.8707216,
+        "latitude": 53.7263713
+      },
+      "telephone": "+353469247508",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kells",
+        "addressRegion": "Meath",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Walking",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Christ Church - Glandore",
+      "url": "https://www.facebook.com/christchurchglandore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.1237442,
+        "latitude": 51.5656831
+      },
+      "telephone": "+353238848166",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Glandore",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Rathfran Abbey",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.2443426,
+        "latitude": 54.238044
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Killala",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery",
+        "Ruins"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "Museum"
+      ],
+      "name": "Michael Davitt Museum",
+      "url": "http://www.michaeldavittmuseum.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.1307741,
+        "latitude": 53.921068
+      },
+      "telephone": "+353949031942",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Foxford",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Tracing Your Ancestors",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Museums and Attraction",
+        "Ruins",
+        "Historic Houses and Castle",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "ShoppingCenter"
+      ],
+      "name": "Holycross Abbey",
+      "url": "http://www.holycrossabbey.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.8681021,
+        "latitude": 52.6395472
+      },
+      "telephone": "+35350443124",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Holycross",
+        "addressRegion": "Tipperary",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Food Shops",
+        "Shopping",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "Museum",
+        "Park"
+      ],
+      "name": "Glendalough Monastic Site and Visitor Centre",
+      "url": "https://heritageireland.ie/places-to-visit/glendalough-visitor-centre/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.3243431,
+        "latitude": 53.010461
+      },
+      "telephone": "+35340445352",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Glendalough",
+        "addressRegion": "Wicklow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Walking",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Museums and Attraction",
+        "National Park",
+        "National and Forest Park",
+        "Ruins",
+        "Historic Houses and Castle",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Abbeyderg Abbey and Graveyard",
+      "url": "https://www.longford.ie/en/visit/explore-the-past/abbeyderg-abbey/abbeyderg-abbey.html",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.7871889,
+        "latitude": 53.6382337
+      },
+      "telephone": "+353433346566",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kenagh",
+        "addressRegion": "Longford",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Photography",
+        "Learning",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery",
+        "Ruins"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Cloyne Round Tower",
+      "url": "http://cloyne.ie/about/round-tower",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.1202974,
+        "latitude": 51.8620116
+      },
+      "telephone": "+353214652561",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cloyne",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St Nicholas' Collegiate Church of Ireland",
+      "url": "http://www.stnicholas.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.0537087,
+        "latitude": 53.2726799
+      },
+      "telephone": "+35391564648",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Galway City",
+        "addressRegion": "Galway",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Adelaide Memorial Church",
+      "url": "http://www.myshalldrumphea.com/adelaide-church.htm",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.778635,
+        "latitude": 52.684946
+      },
+      "telephone": "+353599157671",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Myshall",
+        "addressRegion": "Carlow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Carlow Cathedral",
+      "url": "https://carlowcathedral.ie/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.927924,
+        "latitude": 52.837005
+      },
+      "telephone": "+353599164087",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carlow Town",
+        "addressRegion": "Carlow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Duiske Abbey",
+      "url": "https://villageofthemonks.com/duiskeabbey",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.9546547,
+        "latitude": 52.5411102
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Graiguenamanagh",
+        "addressRegion": "Kilkenny",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Ross Errilly Abbey",
+      "url": "https://www.franciscans.ie/friaries/ross-errilly-abbey-co-galway",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.1315965,
+        "latitude": 53.4797405
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Headford",
+        "addressRegion": "Galway",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Ruins",
+        "Historic Houses and Castle"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Fahan Beehive Huts",
+      "url": "http://www.ancientireland.org/fahan",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -10.421536,
+        "latitude": 52.1016785
+      },
+      "telephone": "+353879254086",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ventry",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Cathedral of Christ the King",
+      "url": "http://www.mullingarparish.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.3458111,
+        "latitude": 53.5270509
+      },
+      "telephone": "+353449348338",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mullingar",
+        "addressRegion": "Westmeath",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Corcomroe Cistercian Abbey",
+      "url": "http://monastic.ie/history/corcomroe-cisterican-abbey",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.0540065,
+        "latitude": 53.1268421
+      },
+      "telephone": "+353656828366",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ballyvaughan",
+        "addressRegion": "Clare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St Patrick's Cross Carndonagh",
+      "url": "https://www.govisitinishowen.com/directory/donagh-cross/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.2720962,
+        "latitude": 55.2499296
+      },
+      "telephone": "+353749363451",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Inishowen",
+        "addressRegion": "Donegal",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St Mary's Church Leixlip",
+      "url": "http://www.leixlipandlucan.glendalough.anglican.org",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.490518,
+        "latitude": 53.363249
+      },
+      "telephone": "+35316240976",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Leixlip",
+        "addressRegion": "Kildare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Killary Monastic Site",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.546373,
+        "latitude": 53.707926
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Slane",
+        "addressRegion": "Meath",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St Joseph's Redemptorist Church",
+      "url": "https://www.redemptoristsdundalk.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.3895579,
+        "latitude": 54.0042289
+      },
+      "telephone": "+353429334042",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dundalk",
+        "addressRegion": "Louth",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Photography",
+        "Learning",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Coolcarrigan House Gardens",
+      "url": "http://www.coolcarrigan.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.8513095,
+        "latitude": 53.3185654
+      },
+      "telephone": "+35345863527",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Naas",
+        "addressRegion": "Kildare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Walking",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery",
+        "Gardens",
+        "Garden",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Donaghpatrick Church",
+      "url": "http://www.discoverboynevalley.ie/boyne-valley-drive/heritage-sites/donaghpatrick-church",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.7595492,
+        "latitude": 53.6965617
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Athboy",
+        "addressRegion": "Meath",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Drumhome Monastic Site",
+      "url": "http://www.donegaldiaspora.ie/place/drumholms-monastic-mystery",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.12532241747817,
+        "latitude": 54.5775875236851
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ballintra",
+        "addressRegion": "Donegal",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St. Patrick’s Gateway Centre",
+      "url": "https://www.facebook.com/stpatricksgatewaycentreltd",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.1141788,
+        "latitude": 52.260277
+      },
+      "telephone": "+35351843589",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Waterford City",
+        "addressRegion": "Waterford",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery",
+        "Venue",
+        "Music"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Jerpoint Abbey",
+      "url": "https://heritageireland.ie/places-to-visit/jerpoint-abbey/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.1575182,
+        "latitude": 52.5108422
+      },
+      "telephone": "+353567724623",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Thomastown",
+        "addressRegion": "Kilkenny",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Findlater's Church",
+      "url": "https://www.abbeychurch.ie/history",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.2636949,
+        "latitude": 53.3544848
+      },
+      "telephone": "+35318378600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "The Black Church",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.2679431,
+        "latitude": 53.3546532
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "Museum"
+      ],
+      "name": "Loughrea Cathedral",
+      "url": "http://loughreacathedral.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.567083,
+        "latitude": 53.197227
+      },
+      "telephone": "+35391841212",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Loughrea",
+        "addressRegion": "Galway",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Museums and Attraction"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Glanworth Castle And Dominican Friary",
+      "url": "http://irishantiquities.bravehost.com/cork/castlelyons/castlelyons.html",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.354437,
+        "latitude": 52.1882374
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Glanworth",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Black Abbey",
+      "url": "https://visitkilkenny.ie/five-brilliant-free-things-to-do-in-kilkenny/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.2576384,
+        "latitude": 52.6537819
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kilkenny City",
+        "addressRegion": "Kilkenny",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "Museum"
+      ],
+      "name": "St. Patrick's Trail - Driving Route",
+      "url": "http://trails.carlowtourism.com/st-patricks-trail",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.928555,
+        "latitude": 52.83657
+      },
+      "telephone": "+353599131554",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carlow Town",
+        "addressRegion": "Carlow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Museums and Attraction",
+        "Ruins",
+        "Historic Houses and Castle"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "Landform"
+      ],
+      "name": "The Skellig Islands - Na Scealga",
+      "url": "http://www.skelligexperience.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -10.538714568979,
+        "latitude": 51.7728558463494
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "The Skellig Islands -Na Scealga",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Bird Watching",
+        "Nature and Wildlife",
+        "Cruising",
+        "Photography",
+        "Learning",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Island",
+        "Offshore Island",
+        "Natural Landscape",
+        "Ruins",
+        "Historic Houses and Castle"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St Patrick's Cathedral",
+      "url": "https://www.stpatrickscathedral.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.2714767,
+        "latitude": 53.3395154
+      },
+      "telephone": "+35314539472",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St Columba's Church",
+      "url": "https://www.discoverboynevalley.ie/boyne-valley-drive/heritage-sites/kells-town-monastic-sites",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.879699,
+        "latitude": 53.72754
+      },
+      "telephone": "+353469247508 ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kells",
+        "addressRegion": "Meath",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Saint Colman's Cathedral",
+      "url": "https://cobhcathedralparish.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.2936865,
+        "latitude": 51.8514618
+      },
+      "telephone": "+353214813222",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cobh",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Kilkieran High Cross",
+      "url": "http://www.megalithicireland.com/High%20Cross%20Kilkieran.htm",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.3808278,
+        "latitude": 52.39794
+      },
+      "telephone": "+353567751500",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Piltown",
+        "addressRegion": "Kilkenny",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "St Aidan's Cathedral",
+      "url": "https://www.staidanscathedral.ie/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.5709015,
+        "latitude": 52.5028662
+      },
+      "telephone": "+353539235777",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Enniscorthy",
+        "addressRegion": "Wexford",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "Museum",
+        "ShoppingCenter"
+      ],
+      "name": "The Steam Museum and Lodge Park Walled Garden",
+      "url": "http://www.steam-museum.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.5991458,
+        "latitude": 53.311618
+      },
+      "telephone": "+35316288412",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Straffan",
+        "addressRegion": "Kildare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Photography",
+        "Learning",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Gardens",
+        "Garden",
+        "Museums and Attraction",
+        "Shopping"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Ardmulchan Church",
+      "url": "http://www.megalithicireland.com/Ardmulchan%20Church,%20Meath.html",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.628602,
+        "latitude": 53.6718102
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kells -Kerry",
+        "addressRegion": "Meath",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Ruins",
+        "Historic Houses and Castle"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Crotty Church",
+      "url": "http://www.irishidentity.com/extras/clergy/stories/crotty.htm",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.9139199,
+        "latitude": 53.0939863
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Birr",
+        "addressRegion": "Offaly",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Haggardstown Old Church and Graveyard",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.3780595,
+        "latitude": 53.9662155
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Blackrock",
+        "addressRegion": "Louth",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Attraction",
+        "Historic Houses and Castle",
+        "Church Abbey",
+        "Monastery",
+        "Churches",
+        "Abbeys and Monastery",
+        "Ruins"
+      ]
+    }
+  ]
+}
